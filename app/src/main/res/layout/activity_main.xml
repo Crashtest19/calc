@@ -31,7 +31,10 @@
             <Button
                 android:id="@+id/buAC"
                 android:text="AC"
-                
+            />
+            <Button
+                android:id="@+id/buACqs"
+                android:text="AC"
             />
 
 
